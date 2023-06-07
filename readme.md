@@ -1,6 +1,6 @@
 # Dashboard
 
-![preview](.github/preview.png)
+![preview](./.github/preview.PNG)
 
 Projeto Construido para estudo
 
